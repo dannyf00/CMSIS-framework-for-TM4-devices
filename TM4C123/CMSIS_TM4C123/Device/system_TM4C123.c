@@ -265,7 +265,7 @@
   Define clocks
  *----------------------------------------------------------------------------*/
 #define XTALM       (16000000UL)            /* Main         oscillator freq */
-#define XTALI       (12000000UL)            /* Internal     oscillator freq */
+#define XTALI       (16000000UL)            /* Internal     oscillator freq */
 #define XTAL30K     (   30000UL)            /* Internal 30K oscillator freq */
 #define XTAL32K     (   32768UL)            /* external 32K oscillator freq */
 
